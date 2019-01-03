@@ -1,0 +1,33 @@
+#######################################
+# Syntax Coloring Map For IRDuino
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SoftPWM	KEYWORD1
+IRDuino	KEYWORD1
+iRduino	KEYWORD1
+IRDuinoRecv	KEYWORD1
+
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+keyPressRelease	KEYWORD2
+press	KEYWORD2
+releaseAll	KEYWORD2
+enterString	KEYWORD2
+isGetIrDta	KEYWORD2
+getIrDta	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+ALL	LITERAL1
