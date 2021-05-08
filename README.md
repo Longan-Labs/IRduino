@@ -15,5 +15,9 @@ IRduino can be both practical and entertaining. It can serve as an interface to 
 * Compact: IRduino is only 19mm x 35mm, which is smaller than most USB flash sticks.
 * Works with most remotes: We have designed a library that is compatible with about 95% of infrared remotes on the market, from air conditioning remotes, to TV remotes, to DVD remotes, to washing machine remotes.
 
+Click on [Longan-Labs.cc](https://www.longan-labs.cc/) to get the product you need.
+
+Contact [support@longan-labs.cc](support@longan-labs.cc) if you need help.
+
 
 [![Analytics](https://ga-beacon.appspot.com/UA-101965714-1/IRduino)](https://github.com/igrigorik/ga-beacon)
